@@ -1,5 +1,5 @@
 # Compass Rose Leisure — Website Concept
-### Design by Chris Bohn
+### Design by Chris Clark
 
 A luxury travel agency website with an AI-powered lead generation chatbot ("Rose"), built for Compass Rose Leisure.
 
@@ -106,4 +106,4 @@ compass-rose/
 
 ---
 
-*Built with Claude (Anthropic) · Deployed on Vercel · Design concept by Chris Bohn*
+*Built with Claude (Anthropic) · Deployed on Vercel · Design concept by Chris Clark*
