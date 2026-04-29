@@ -1,0 +1,11 @@
+{
+  "name": "compass-rose-leisure",
+  "version": "1.0.0",
+  "description": "Compass Rose Leisure - Luxury Travel Agency Website with AI Concierge",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.24.0"
+  }
+}
